@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\AN_3\An3_sem1\PG\PROIECT_CiochinaCatalina\PROIECT_CiochinaCatalina\main.cpp(135,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\AN_3\An3_sem1\PG\PROIECT_CiochinaCatalina\PROIECT_CiochinaCatalina\main.cpp(136,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\AN_3\An3_sem1\PG\PROIECT_CiochinaCatalina\PROIECT_CiochinaCatalina\main.cpp(140,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\AN_3\An3_sem1\PG\PROIECT_CiochinaCatalina\PROIECT_CiochinaCatalina\main.cpp(141,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\AN_3\An3_sem1\PG\PROIECT_CiochinaCatalina\PROIECT_CiochinaCatalina\main.cpp(142,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\AN_3\An3_sem1\PG\PROIECT_CiochinaCatalina\PROIECT_CiochinaCatalina\main.cpp(143,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\AN_3\An3_sem1\PG\PROIECT_CiochinaCatalina\PROIECT_CiochinaCatalina\main.cpp(160,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\AN_3\An3_sem1\PG\PROIECT_CiochinaCatalina\PROIECT_CiochinaCatalina\main.cpp(160,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+  Generating Code...
+  PROIECT_CiochinaCatalina.vcxproj -> D:\AN_3\An3_sem1\PG\PROIECT_CiochinaCatalina\x64\Debug\PROIECT_CiochinaCatalina.exe

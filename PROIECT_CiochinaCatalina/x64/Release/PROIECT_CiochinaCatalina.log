@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+D:\AN_3\An3_sem1\PG\OpenGL dev libs\include\GLFW\glfw3.h(123,1): message : see previous definition of 'APIENTRY'
+D:\AN_3\An3_sem1\PG\PROIECT_CiochinaCatalina\PROIECT_CiochinaCatalina\main.cpp(169,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\AN_3\An3_sem1\PG\PROIECT_CiochinaCatalina\PROIECT_CiochinaCatalina\main.cpp(170,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\AN_3\An3_sem1\PG\PROIECT_CiochinaCatalina\PROIECT_CiochinaCatalina\main.cpp(174,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\AN_3\An3_sem1\PG\PROIECT_CiochinaCatalina\PROIECT_CiochinaCatalina\main.cpp(175,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\AN_3\An3_sem1\PG\PROIECT_CiochinaCatalina\PROIECT_CiochinaCatalina\main.cpp(176,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\AN_3\An3_sem1\PG\PROIECT_CiochinaCatalina\PROIECT_CiochinaCatalina\main.cpp(177,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\AN_3\An3_sem1\PG\PROIECT_CiochinaCatalina\PROIECT_CiochinaCatalina\main.cpp(194,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\AN_3\An3_sem1\PG\PROIECT_CiochinaCatalina\PROIECT_CiochinaCatalina\main.cpp(194,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  0 of 1828 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PROIECT_CiochinaCatalina.vcxproj -> D:\AN_3\An3_sem1\PG\PROIECT_CiochinaCatalina\x64\Release\PROIECT_CiochinaCatalina.exe
